@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Goose Track Application
 <img width="1509" alt="Снимок экрана 2023-09-07 в 18 18 33" src="https://github.com/usai2005/GooseTrack-project-group-1-frontend/assets/63882255/cf7e7fcc-3b41-4d55-b445-9fde3473d6c7">
 
@@ -45,3 +46,6 @@ You will see any lint errors in the console.
 
 
 
+=======
+# GooseTrack-project-group-1-frontend
+>>>>>>> 4da612ef40cc62d0b861ba37735701f132f04941
